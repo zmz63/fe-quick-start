@@ -1,6 +1,7 @@
 ### nvm
 
 https://github.com/nvm-sh/nvm
+
 https://github.com/coreybutler/nvm-windows/releases
 
 ### pnpm
@@ -24,15 +25,21 @@ pnpm i -g typescript
 ### vscode插件
 
 EditorConfig for VS Code
+
 Live Server
+
 Code Runner
+
 Vue Language Features
+
 ESlint
+
 Stylelint
 
 ### vscode配置
 
 shift+ctrl+p -> open user settings
+
 添加以下内容
 
 ```json
